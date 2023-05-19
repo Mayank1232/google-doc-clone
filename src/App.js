@@ -1,8 +1,8 @@
 import React from "react";
-import Header from "./components/Header";
+import Editor from "./pages/Editor";
 
 function App() {
-  return <Header />;
+  return <Editor />;
 }
 
 export default App;
